@@ -20,7 +20,7 @@ This project is a Java implementation of the classic Arkanoid game, focusing on 
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/arkanoid-java-oop.git
+   git clone https://github.com/Eliaddr119/OOP-Arkanoid-Game-.git
    ```
 2. Open the project in your preferred IDE.
 3. Build and run the project.
@@ -36,5 +36,3 @@ This project is a Java implementation of the classic Arkanoid game, focusing on 
 ## Acknowledgments
 - Inspired by the classic Arkanoid game.
 ```
-
-This Markdown version covers all sections of your README file, formatted for clarity and readability. Adjust the URLs and specific instructions as per your project details.
