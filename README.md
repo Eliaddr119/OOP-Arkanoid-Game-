@@ -1,6 +1,5 @@
 Certainly! Here's the entire README formatted in Markdown:
 
-```markdown
 # Arkanoid Game (Java OOP)
 
 ## Overview
